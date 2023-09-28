@@ -1,4 +1,4 @@
-# NASA Space Apps 2023 
+# NASA Space Apps 2023 - GEOMTRX (Geomagnetic Storm Tracker)
 
 <p align="center">
   <img src="https://github.com/jpmonteagudo28/NASA_SA23/blob/main/Space_Apps_Logo_White.png" width="350" title="hover text">
