@@ -17,7 +17,7 @@ Challenge: use the "raw" data from DSCOVR—faults and all—to predict geomagne
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-THE DATA:
+THE DATA (https://drive.google.com/drive/u/1/folders/1zvCqZ5Zb63z9ce4RKtmvnV6Uh4tShTIF):
 
 The data files in this repository contain measurements from the DSCOVR PlasMAG instrument suite, recorded in the solar wind near the Earth-Sun L1 Lagrange Point between 2016 and present day.
 
