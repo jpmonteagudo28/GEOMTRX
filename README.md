@@ -21,7 +21,7 @@ The DSCOVR Faraday Cup is the instrument that provides the solar wind density, s
 To work well, a space science experiment must be stable and well-calibrated to translate the "raw" data into the more useful "level 2" data. DSCOVR no longer meets these criteria; in its old age, certain electrical anomalies and faults have been observed that shift the calibration and introduce noisy signals in unpredictable ways into DSCOVR raw data. When these faults occur, NOAA generally attempts to identify them and switches to a backup weather station rather than attempting to recalibrate or mitigate the error to produce the level 2 data accurately.  
 
 ## Resources available to use
- 1. WORKING DEMONSTRATION FOR READING DSCOVR EXPERIMENTAL DATA - [OMNI hourly Dataset](https://hpde.io/NASA/NumericalData/OMNI/PT1)
+ 1. WORKING DEMONSTRATION FOR READING DSCOVR EXPERIMENTAL DATA - [OMNI hourly Dataset](https://hpde.io/NASA/NumericalData/OMNI/PT1H)
  2. [CARISMA FLUXMAGNETOMETER DATA](http://data.carisma.ca/FGM/) - Used to validate DSCOVR data(8 Hz) and a simple [format guide](https://www.carisma.ca/carisma-data/fgm-data-format)
  3. [CANADIAN SOLAR FLUX ARCHIVE (F10.7)](https://www.spaceweather.gc.ca/forecast-prevision/solar-solaire/solarflux/sx-5-en.php) - Data from the Canadian solar flux archive   
 
