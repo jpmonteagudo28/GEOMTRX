@@ -18,9 +18,7 @@ When operating reliably, the National Oceanic and Atmospheric Administration’s
 #### What is Currently Measured by DSCOVR:
 
 The DSCOVR Faraday Cup is the instrument that provides the solar wind density, speed, and temperature used by NOAA to run its forecast models. NOAA refers to the densities, speeds, and temperatures as "level 2" data. These quantities are not measured directly, however; the instrument actually measures the entire spectra of solar wind particles over time and then computes those quantities from the spectra. These spectral data are referred to as "level 1" data, or sometimes as "raw" data. 
-To work well, a space science experiment must be stable and well-calibrated to translate the "raw" data into the more useful "level 2" data. DSCOVR no longer meets these criteria; in its old age, certain electrical anomalies and faults have been observed that shift the calibration and introduce noisy signals in unpredictable ways into DSCOVR raw data. When these faults occur, NOAA generally attempts to identify them and switches to a backup weather station rather than attempting to recalibrate or mitigate the error to produce the level 2 data accurately.
-
-
+To work well, a space science experiment must be stable and well-calibrated to translate the "raw" data into the more useful "level 2" data. DSCOVR no longer meets these criteria; in its old age, certain electrical anomalies and faults have been observed that shift the calibration and introduce noisy signals in unpredictable ways into DSCOVR raw data. When these faults occur, NOAA generally attempts to identify them and switches to a backup weather station rather than attempting to recalibrate or mitigate the error to produce the level 2 data accurately.  
 
 ## Resources available to use
  1. WORKING DEMONSTRATION FOR READING DSCOVR EXPERIMENTAL DATA - [OMNI hourly Dataset](https://hpde.io/NASA/NumericalData/OMNI/PT1)
