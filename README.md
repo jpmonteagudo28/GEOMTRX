@@ -1,6 +1,9 @@
 # NASA Space Apps 2023 
 
--------------------------------------------------------------------------------------------
+<p align="center">
+  <img src="https://github.com/jpmonteagudo28/NASA_SA23/blob/main/Space_Apps_Logo_White.png" width="350" title="hover text">
+</p>
+
 
 ## The Challenge:  
 Use the "raw" data from DSCOVR—faults and all—to predict geomagnetic storms on Earth. Currently, NOAA relies on stable, well-calibrated level 2 data for its forecasts. The challenge is to develop your own geomagnetic activity forecast using the raw DSCOVR data directly as input. When you are interpreting your results, think about what satellite operators, electrical utilities, the airline industry, the armed forces, and others need to consider when they are relying on a forecast from an aging instrument. It is important to be able to predict geomagnetic activity as quickly and accurately as possible.
