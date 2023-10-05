@@ -17,7 +17,7 @@ Challenge: use the "raw" data from DSCOVR—faults and all—to predict geomagne
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-THE DATA (https://drive.google.com/drive/u/1/folders/1zvCqZ5Zb63z9ce4RKtmvnV6Uh4tShTIF):
+THE DATA:
 
 The data files in this repository contain measurements from the DSCOVR PlasMAG instrument suite, recorded in the solar wind near the Earth-Sun L1 Lagrange Point between 2016 and present day.
 
@@ -73,6 +73,8 @@ Real Time Solar Wind: https://www.swpc.noaa.gov/products/real-time-solar-wind
 Geospace Magnetosphere Movies: https://www.swpc.noaa.gov/products/geospace-magnetosphere-movies
 3D Geomagnetic Forecast:  https://www.swpc.noaa.gov/products/3-day-geomagnetic-forecast
 Planetary K Index: https://www.swpc.noaa.gov/products/planetary-k-index
+DSCOVR Level 1 Requirements Document - Description of measurements taken by DSCOVR - https://www.space.commerce.gov/wp-content/uploads/DSCOVR-L1RD-Signed-NOAA-NASA-v1.1-Aug-15-2013-FINAL-2.pdf
+A study of the Relationship between Geomagnetic Storms and  the Interplanetary Magnetic Field - https://ccmc.gsfc.nasa.gov/RoR_WWW/SWREDI/contest-presentations/2017/CCMCPaper_ShreeyaKhurana_Final.pdf
 
 
 
